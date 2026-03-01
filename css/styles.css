@@ -19,7 +19,7 @@ body {
 #header h1 {
   position: absolute;
   left: 420px;
-  top:5px;
+  top: 5px;
   font-size: 3em;
   font-family: 'Devonshire', cursive;
   color: #E35335;
@@ -86,12 +86,12 @@ h2 strong {
 }
 
 #main-nav ul {
-list-style-type: none;
-margin: 0;
-padding: 0;
-float: left;
-position: relative;
-left:50%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float: left;
+  position: relative;
+  left:50%;
 }
 
 #main-nav ul li {
